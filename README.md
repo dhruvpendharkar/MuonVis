@@ -2,7 +2,7 @@
 
 An interactive visualization tool for understanding the [Muon optimizer](https://github.com/KellerJordan/Muon) — a momentum-based optimizer that applies Newton-Schulz orthogonalization to gradient updates, enabling better-conditioned weight steps than standard SGD or Adam.
 
-Built as a technical explainer targeting ML practitioners, walking through the math and mechanics of Muon step-by-step.
+View the visualizer [here](https://dhruvpendharkar.github.io/MuonVis/)
 
 ## Live Demo
 
